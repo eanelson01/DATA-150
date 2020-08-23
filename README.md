@@ -2,8 +2,6 @@
 
 ## Promises of Big Data 
 
----
-
    Joshua Bloomenstock presented a breadth of promises that big data has when applied to real world situations. Though not perfect, he explained how there were indications of someone's ability to pay-back debt when they lack a convential credit score. Those indications included how many friends someone has on facebook compared to those in their near vacinity as well as their number of international calls. Though these factors seem odd and randomly drawn from a hat, big data allows people to unveil indicators from a world filled with an abundance of potential factors. As expressed later in the article, the aforementioned predictors are far from perfect but present a promise for the future where impoverished people can get the financial assistence and trust they need. If applied properly and with other context, these predictors could have a widespread impact on those in need, and thus should be researched further. The promises of data do not stop at finding people who will pay back loans, however, with data models allowing scientists to see crop yields and track malnurishment in kids. This impact, if maximized to the fullest, has an incredible humanitarian benefit which should not be overlooked. It would allow for aid to be better directed. Again though the process at this stage is not perfect: it needs work. But this sentiment is true for most developing processes which have not been around for a significant amount of time to properly develop. I look forward in anticipation for how these promises will better impact the world we live in.
   
 ## Pitfalls of Big Data
