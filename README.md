@@ -6,4 +6,4 @@ I am orignially from Pennsylvania, an hour outside of Philidelphia. I moved to H
 
 ### Homework Responses
 
-[1. Bloomenstock Article Response](bloomenstock.md)
+[1. Blumenstock Article Response](bloomenstock.md)
