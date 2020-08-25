@@ -1,3 +1,5 @@
 # Ethan Nelson's Data 150 Repository
 
-[Bloomenstock Article Response](bloomenstock.md)
+## Homework Responses
+
+[1. Bloomenstock Article Response](bloomenstock.md)
