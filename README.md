@@ -7,3 +7,5 @@ I am orignially from Pennsylvania, an hour outside of Philidelphia. I moved to H
 ### Homework Responses
 
 [1. Blumenstock Article Response](bloomenstock.md)
+
+[2. Hans Rosling Ted Talk Response](beststats.md)
