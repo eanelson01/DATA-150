@@ -1,0 +1,12 @@
+# Response to "The Best Stats You've Ever Seen" by Hans Rosling
+
+### First Impressions/Illuminating Data
+
+  The intial message of Hans Rosling's Ted Talk seemed to be that of the potential that data, statistics, and models have. They can show us what we at first are blind to, acting as an illumination technique in a world of darkness. This potential should not go untapped. Rosling intially looked at the pre-concieved notions that blinded people with his pre-test on students about mortality rate sin countries. They had a mean score of around 1.8 while a chimp, which has no preconcieved bias or thought, scored a 2.5. This illustrates the extreme veil that bias places on our outlook and decision making processes. In this case, the use of data lifts that viel, showing us what is truly occuring on the global scale.  Rosling further exemplified this point by illustrating how people think of debelped countries compared to the "third world." Many would assume that a place like Vietnam has a lower life expectancy than the US and have larger families. In reality, as the data shows, the life expectancy and child numbers have moved much closer to those of the US. Again, the data helps resolve us of our unnecessary prejudices by showing an unflitered truth.
+  
+ ### The Need for Specific Data and Help
+   Going along with the theme of biases clouding judgement and data allieviating those prejudices, it is imporant to contextualize the problem an entity is attempting to solve. Hans showed through the ted talk that when looking at a continent, for example Africa, as a whole, the whole truth is not apparent. It will look like Africa as a whole is in an incredible amount of need. While this is true for some places, it does not apply to all. For this reason, decision making, humanitarian aid, and statistical conclusions much be contextualized and broken up beyond just large generalziations. Each must strike with percision in the areas which desire and need the most help and aid. Another example was Arabian penisula; when viewed together, it seems like the United Arab Emirates would need as much help as Yemen. But viewed seperately, it is clear to see that United Arab Emirates is in less need and Yeman need sthe bulk of it. By splitting up regionalities it is clear that the correlation is only strengthened. As such, each problem must be approached with a significant amount of contextualization and understanding of the different facets. 
+   
+### A Mecessar Future for Public Data
+  
+  
