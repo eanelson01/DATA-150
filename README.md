@@ -9,3 +9,5 @@ I am orignially from Pennsylvania, an hour outside of Philidelphia. I moved to H
 [1. Blumenstock Article Response](bloomenstock.md)
 
 [2. Hans Rosling Ted Talk Response](beststats.md)
+
+[3. Q&N on Rosling and Sen](qna.md) 
