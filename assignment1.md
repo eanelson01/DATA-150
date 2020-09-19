@@ -1,4 +1,4 @@
-# Ethan Nelson's Annotated Bibliography: 
+# Ethan Nelson's Annotated Bibliography: 3537 Words
 1. Sorichetta, A., Nghiem, S., Masetti, M., Linard, C., & Richter, A. (2020, February 16). 
 Transformative Urban Changes of Beijing in the Decade of the 2000s. Retrieved September 08, 2020, from https://www.mdpi.com/2072-4292/12/4/652/htm
 
