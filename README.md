@@ -17,3 +17,5 @@ I am orignially from Pennsylvania, an hour outside of Philidelphia. I moved to H
 [5. Assignment 1 Annotated Bibliography](assignment1.md)
 
 [6. End of Theory, or not?](endoftheory.md)
+
+[7. GIS Framework Data Science Insight](insight2.md)
