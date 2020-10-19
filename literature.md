@@ -1,5 +1,7 @@
 # The Use of Geospatial and Remote Sensing Techniques to Track The Increase of Peri-Urban Areas and Associated Health Risks in Disease and Flooding in Ho Chi Minh City Vietnam
 
+## Word Count: 4611
+
 ## Introduction
 
 ### Topic Description
@@ -84,6 +86,14 @@ The study produced results which illustrated the observed correlations. They fou
 Together the sources illustrate a trend of increased flooding, following patterns related to landscape characteristics including elevation, land type, soil type, location of water bodies, and more. Both studies clearly represent the dangerous effects which peri-urbanization poses in the context of flood patterns. Sea level changes related to the changing climate only further exacerbate the flooding issues from peri-urbanization. These data science methods provide a solid groundwork for further investigation of flooding and its impact on the residents of Ho Chi Minh City, providing an opportunity to model and track flooding more effectively.
 
 ### Methods and Data Sets
+
+As mentioned throughout the body of the review, the literature has used a variety of data science methods and sets to achieve their goal of monitoring peri-urbanization and its effects. In most presented articles, the authors started with some sort of geospatial remote sensing technique. Many used a variation of Landsat or QuickBird imaging to have a top down overview of the targeted area. These image methods are derived from satellites using passive remote sensing to produce a top down image with varying resolution. This view then provides the researchers with the raw data to begin to analyze topographic features as well as land use patterns, as is critical when attempting to  understand the peri-urbanization trends.
+
+Many articles took advantage of a data science technique to create classifications for the Landsat or QuickBird imaging. These classification methods were critical in transforming the raw data of remote sensing imagery to then comprehensible sections and distinctions. The presented works took advantage of classifiers including support vector machines, digital elevation models, and kernel based probabilistic classification. In addition to these classifiers, the authors took advantage of linear and logistic regression to establish significant correlations between factors. 
+
+Data sets were spread out among the articles and were dependent on the specific issue at hand. For example, those articles which looked at the increase in Avian Influenza transmission in Vietnam used a number of census data sets. Most notably, authors used the Vietnamese Rural, Agricultural, and Fishery census data to graph where outbreaks occurred. Similarly, authors gathered their remote sensing data from the United States Geological Survey, the European Space Agency, or Google Images. Their remote sensing findings were verified by field study reports.
+
+Lastly, the researchers commonly used a geographic information system framework to visualize their models and results. An ArcGIS model was similarly popular due to its capabilities to put layers of numerical or visual data together into a coherent medium. This method then allowed for the researchers to have a vizual, interactive medium to showcase the data in a comprehensive and cohesive manner. 	
 
 ### Themes and Their Sustainable Human Development Goals
 
