@@ -21,3 +21,5 @@ I am orignially from Pennsylvania, an hour outside of Philidelphia. I moved to H
 [7. GIS Framework Data Science Insight](insight2.md)
 
 [8. Owen Barder Respone](podcast.md)
+
+[9. Literature Review](literature.md)
