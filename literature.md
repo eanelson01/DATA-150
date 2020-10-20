@@ -1,4 +1,4 @@
-# The Use of Geospatial and Remote Sensing Techniques to Track The Increase of Peri-Urban Areas and Associated Health Risks in Disease and Flooding in Ho Chi Minh City Vietnam
+# The Use of Geospatial and Remote Sensing Techniques to Track The Increase of Peri-Urban Areas and Associated Health Risks in Disease and Flooding in Vietnam
 
 ## Word Count: 4611
 
