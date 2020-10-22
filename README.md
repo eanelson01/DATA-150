@@ -23,3 +23,5 @@ I am orignially from Pennsylvania, an hour outside of Philidelphia. I moved to H
 [8. Owen Barder Respone](podcast.md)
 
 [9. Literature Review](literature.md)
+
+[10. Research Question and its Type](typeofquestion.md)
