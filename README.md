@@ -27,3 +27,5 @@ I am orignially from Pennsylvania, an hour outside of Philidelphia. I moved to H
 [10. Research Question and its Type](typeofquestion.md)
 
 [11. Underlying Theory of Presneted Articles](theory.md)
+
+[12. Knowledge Creation 3: The Future of Data Science](knowledge.md)
