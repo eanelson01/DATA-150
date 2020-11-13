@@ -20,7 +20,7 @@ The Chi-square test results in a p-value ranging from 0 to 1, where values close
 
 In relation to the central research question,  New Modeling Approach for Spatial Prediction of Flash Flood with Biogeography Optimized CHAID Tree Ensemble and Remote Sensing Data [5] uses the CHAID Tree categorical method. They outline their equation as such:
 
-![alt text](images/Chisquare equation Data 150.jpg)
+![](images/Chisquare equation Data 150.jpg)
 
 The X2 denotes the chi-square value, nij is the frequency of observed cells, and mij is the mean of frequency of the observed cells. The nij is subtracted by the mean, with the outcome squared to account for sign changes. That is then divided by the mean to get the standard deviation. This process is repeated for all cells and then added together to get the chi-square value. This chi-square value can determine a p-value based on the degrees of freedom and charts. 
 
